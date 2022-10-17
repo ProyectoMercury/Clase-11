@@ -35,5 +35,13 @@ MISIONES PROGRAMA MERCURY
 ![image](https://user-images.githubusercontent.com/111382126/196279712-211f3204-b947-4661-8305-c0ad2a8f5dd4.png)
 
 
+**FUENTES**
+
+https://knuth.uca.es/moodle/mod/page/view.php?id=4500&lang=es
+https://www.hq.nasa.gov/office/pao/History/40thann/humanspf.htm
+https://history.nasa.gov/SP-4001/contents.htm
+https://web.archive.org/web/20151027034642/http://history.nasa.gov/SP-4003/toc.htm
+
+
 
 
