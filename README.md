@@ -19,7 +19,7 @@ Las cápsulas Mercury utilizaron dos tipos de cohetes lanzadores:
 1. Los primeros vuelos suborbitales fueron lanzados por cohetes Redstone diseñados por el equipo de Wernher von Braun en Huntsville, Alabama. 
 2. Para los vuelos orbitales, las cápsulas fueron lanzadas con los Atlas-D, unos cohetes modificados a partir de un misil balístico. Su cubierta de acero era muy delgada para ahorrar peso, por lo que la estabilidad estructural se la proporcionaba la presión del combustible interior (cuando estaba vacío debía ser presurizado con gas para evitar el colapso del lanzador). Este mismo problema lo tendría la siguiente familia de lanzadores para el programa Gemini: los Titan II.
 
-EL EQUIPO
+EL EQUIPO: LOS SIETE VALIENTES
 
 Elegidos de un grupo de más de 110 pilotos militares, debido a su experiencia en vuelos de prueba y por las características físicas necesarias que mantenían. En 1957 se seleccionaron 7 astronautas para las misiones Mercury:
 1. Alan B. Shephard
