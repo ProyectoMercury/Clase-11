@@ -36,6 +36,11 @@ MISIONES PROGRAMA MERCURY
 
 ![image](https://user-images.githubusercontent.com/111382126/196279712-211f3204-b947-4661-8305-c0ad2a8f5dd4.png)
 
+EL FINAL DEL PROGRAMA
+
+El último vuelo de una nave del proyecto Mercury fue el del Mercury Atlas 9 en la cápsula Faith 7 con L. Gordon Cooper, Jr. el 15 de mayo de 1963, una misión que concluyó al día siguiente. Una vez finalizado el proyecto, la atención del programa de vuelos había cambiado cuando el presidente John F. Kennedy anunciara durante una sesión del Congreso la meta de llevar un estadounidense a la Luna y traerlo a salvo de vuelta.
+
+Para 1963, solamente 500 de las 2500 personas trabajando en el Centro de Vuelos Tripulados de la NASA seguían trabajando para el programa Mercury (los 2000 restantes estaban ocupados trabajando en los programas Gemini y Apolo con los que la NASA lograría mayores avances y su única victoria frente a los soviéticos).
 
 **FUENTES**
 
