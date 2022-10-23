@@ -3,7 +3,7 @@ Una carrera de vida o muerte por la supremacía espacial contra la Unión Sovié
 
 ### SOBRE EL PROGRAMA
 
-El Proyecto Mercury fue el primer programa espacial, dirigido por la N.A.S.A., con intención de poner al primer hombre en el espacio, además de ser una respuesta de la NASA ante el liderazgo de ese momento de la Unión Soviética, enfrentada a Estados Unidos durante la Guerra Fría. El programa se desarrolló durante los años 1958 y 1963, teniendo por objetivo principal ser capaz de realizar vuelos orbitales en aeronaves tripuladas, alrededor de la tierra, y recuperar al piloto de forma segura con el fin de estudiar las capacidades del ser humano en el ambiente espacial. 
+El Proyecto Mercury fue el primer programa espacial, dirigido por la N.A.S.A., desarrollado durante los años 1958 y 1963, con intención de poner al primer hombre en el espacio, además de ser una respuesta de la NASA ante el liderazgo de ese momento de la Unión Soviética, enfrentada a Estados Unidos durante la Guerra Fría. El programa tenía por objetivo principal ser capaz de realizar vuelos orbitales en aeronaves tripuladas, alrededor de la tierra, y recuperar al piloto de forma segura con el fin de estudiar las capacidades del ser humano en el ambiente espacial. 
 Mientras tanto, la Unión Soviética desarrollaba en paralelo su propio programa con intención de colocar al primer hombre en el espacio, el Proyecto Vostok con un plan de desarrollo análogo.
 
 PREOCUPACIONES
