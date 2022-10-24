@@ -18,12 +18,21 @@ PREOCUPACIONES
 - Las situaciones extremas propias del ambiente espacial: el vacío, las bruscas fluctuaciones de temperatura y la recién descubierta radiación espacial. 
 - La necesidad de realizar una reentrada a la atmósfera a alta velocidad y proteger al astronauta de las altas temperaturas de reentrada mediante el uso de escudos de protección térmica.
 
+LOS COHETES
+
+![image](https://user-images.githubusercontent.com/111382126/197552233-255123ac-d9c6-4b7f-8539-aa7cac3fa9a8.png)
+
 LA NAVE
 
 Vehículo de forma balística sin alas que haría su reentrada a la atmósfera protegido de un escudo térmico que se quemaría durante esta etapa. Mercury fue diseñado por Max Faget, y fue más versátil y con instrumentos más avanzados que su rival soviética Vostok.
 Las cápsulas Mercury utilizaron dos tipos de cohetes lanzadores:
 1. Los primeros vuelos suborbitales fueron lanzados por cohetes Redstone diseñados por el equipo de Wernher von Braun en Huntsville, Alabama. 
 2. Para los vuelos orbitales, las cápsulas fueron lanzadas con los Atlas-D, unos cohetes modificados a partir de un misil balístico. Su cubierta de acero era muy delgada para ahorrar peso, por lo que la estabilidad estructural se la proporcionaba la presión del combustible interior (cuando estaba vacío debía ser presurizado con gas para evitar el colapso del lanzador). Este mismo problema lo tendría la siguiente familia de lanzadores para el programa Gemini: los Titan II.
+
+LA CÁPSULA
+
+![image](https://user-images.githubusercontent.com/111382126/197552527-1f0fb65d-c9d9-43b1-bfa2-5ea8631ef30a.png)
+
 
 EL EQUIPO: LOS SIETE VALIENTES
 
